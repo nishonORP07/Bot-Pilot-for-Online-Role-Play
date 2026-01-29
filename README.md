@@ -4,4 +4,4 @@ requirements / зависимость: https://github.com/imring/SAMP-API.lua
 
 Заходим в игру начинаем работу пилота вводим команду /pbot и все бот работает 
 
-для связи info@ucell.tech
+
